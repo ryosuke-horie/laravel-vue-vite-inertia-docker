@@ -2,7 +2,7 @@
 	export default {
 	    data() {
 	        return {
-	            greeting: "Hello World!",
+	            greeting: "Hello Laravel! Vite! Vue3 Inertia!",
 	        };
 	    },
 	};
