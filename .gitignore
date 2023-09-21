@@ -1,0 +1,5 @@
+.env
+.vscode
+backup/
+vendor/
+node_modules/
